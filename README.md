@@ -1,1 +1,2 @@
-# -renci_performans_de-erlendirme
+# -renci_Perfonmans_Tahminlemesi_MLOps_Deneme2
+Etütte yaptığımız mlops projesi
